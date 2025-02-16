@@ -3,3 +3,4 @@ This is my repository for learning React Language
 <br><b><i><u>
 Author-Aditya Singh
 </b></i><u>
+<b>Day 2<b>
